@@ -1,6 +1,68 @@
-# kojiyamauchi.com/main repository.<br>
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-> **Created by Antono**
+<h1 align="center">Project 👋</h1>
 
+<p align="center">
+  <strong></strong>
+</p>
 
-<http://kojiyamauchi.com/main/>
+<p align="center">
+  <a href="https://github.com/antono4/kojiyamauchi.com-main-wordpress"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/kojiyamauchi.com-main-wordpress-blue?logo=github"></a>
+  <a href="https://antono4.github.io/kojiyamauchi.com-main-wordpress/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-267-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 13:09:57 WIB-lightgrey">
+</p>
+
+---
+
+## 📖 Tentang
+
+Repository **`kojiyamauchi.com-main-wordpress`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/kojiyamauchi.com-main-wordpress/`](https://antono4.github.io/kojiyamauchi.com-main-wordpress/).
+
+## 🗂️ Struktur Proyek
+
+```
+kojiyamauchi.com-main-wordpress/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+- `CSS`
+- `SCSS`
+- `JavaScript`
+- `PHP`
+
+> Total **267 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/kojiyamauchi.com-main-wordpress/](https://antono4.github.io/kojiyamauchi.com-main-wordpress/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-13 13:09:57 WIB** oleh GitHub Actions .</sub>
